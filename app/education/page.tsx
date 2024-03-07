@@ -40,7 +40,7 @@ export default function Example() {
               <td className="px-4 py-2">July 2021</td>
             </tr>
             <tr>
-              <td className="px-4 py-2">Modern Vidya Niketan,Aravali Hill</td>
+              <td className="px-4 py-2">Modern Vidya Niketan,Aravali Hills</td>
               <td className="px-4 py-2">Senior Secondary School (X)</td>
               <td className="px-4 py-2">March 2019</td>
             </tr>
