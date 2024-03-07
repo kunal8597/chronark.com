@@ -7,9 +7,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: {
     default: "kunal's portfolio",
-    template: "%s | chronark.com",
+    template: "",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "",
 
   robots: {
     index: true,
