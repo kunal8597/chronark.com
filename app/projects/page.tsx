@@ -41,6 +41,11 @@ const socials = [
 		label: "Github",
 		handle: "pokedex",
 	},
+	{	icon: <Github size={20} />,
+		href: "https://github.com/kunal8597/phrase2frame",
+		label: "Github",
+		handle: "phrase2frame",
+	},
 ];
 
 export default function projectpage(){
