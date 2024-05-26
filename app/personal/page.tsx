@@ -51,7 +51,7 @@ Eager to collaborate on projects at the intersection of web development and AI/M
 Apart from coding, I am passionate about following cricket🏏. You can also find me at the gym🏋🏻‍♂️.
         </h2>
         <button className="text-zinc-400">
-  <a href="https://drive.google.com/file/d/1mQR3AHZOI7915Po-4tdqjSXty52F10ea/view?usp=share_link">Download Resume</a>
+  <a href="https://drive.google.com/file/d/1v364SutUuSqDpHj0WDoFl-FHJy69QKqR/view?usp=share_link">Download Resume</a>
 </button>
       </div>
     </div>
