@@ -46,6 +46,11 @@ const socials = [
 		label: "Github",
 		handle: "phrase2frame",
 	},
+	{	icon: <Github size={20} />,
+		href: "https://github.com/kunal8597/passop",
+		label: "Github",
+		handle: "passop",
+	},
 ];
 
 export default function projectpage(){
